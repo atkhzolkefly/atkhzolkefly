@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JojiWills / ATIKAH ZOLKEFLY
 - 👀 I’m interested in Coding and Database Development 
-- 🌱 I’m currently learning JAVASCRIPT ,  C++ , HTML and CSS , PHP
+- 🌱 I’m currently learning JAVASCRIPT ,  C++ , HTML and CSS , PHP , Machine Learning and Phyton
+- 
 - 📫 How to reach me atikahzolkefly@gmail.com
 
 <!---
