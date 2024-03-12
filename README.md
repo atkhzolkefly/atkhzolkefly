@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atikah Zolkefly</h1>
-<h3 align="center">Passionate in Machine Learning & AI developer.</h3>
+<h3 align="center">Passionate in Programming, Machine Learning & AI development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jojiwills" alt="jojiwills" /></a> </p>
+
 
 - 🔭 I’m currently working on **Malaysian Sign Language Interpretation Web Application**
 
